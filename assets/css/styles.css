@@ -1,0 +1,28 @@
+h1 {
+    color:purple;
+    text-align: center;
+}
+/*Asi se comenta en CSS2*/
+p{
+    font-size: 80px;
+    font-weight: 900;
+    font-style: italic;
+    text-decoration: underline blue;
+    text-transform: uppercase;
+}
+div {
+    height: 300px;
+    width: 400px;
+    background-color: paleturquoise;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 20px;
+}
+.uno {
+    background-image: url('../images/sololeveling.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.dos {
+    background-color: cadetblue;
+}

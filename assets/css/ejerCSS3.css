@@ -1,0 +1,42 @@
+body{
+    background-color: #D3D3D3 ;
+}
+header  h1 {
+    text-align: center;
+    letter-spacing: 10px;
+    /*font-size: 1.5cm;*/
+}
+main > article > section{
+    width: 90%;
+    margin: 0 auto;
+}
+main > article > section > h2{
+    color: white;
+    background-color: #808080;
+    padding-left: 10px;
+    /*font-size: .7cm;*/
+}
+main > article > section > div{
+    width: 80%;
+    margin: 0 auto;
+}
+main > article > section > div > img {
+    float: left;
+}
+main > article > section > div > p {
+    text-align: justify;
+    text-indent: 20px;
+}
+main > article > section > div > p > em{
+    color:  #FF0000 ;
+}
+main > article > section > div > p > span{
+    background-color: white;
+}
+.clear-fix {
+    clear: both;
+    float: none;
+}
+.CSS3 {
+    margin: 15px 40px;   
+}
